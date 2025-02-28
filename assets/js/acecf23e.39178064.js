@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkonecloudx_ui=self.webpackChunkonecloudx_ui||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/ow-ui-public/blog","blogTitle":"Blog","authorsListPath":"/ow-ui-public/blog/authors"}')}}]);
