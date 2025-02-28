@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkonecloudx_ui=self.webpackChunkonecloudx_ui||[]).push([[2538],{4998:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ow-ui-public/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
