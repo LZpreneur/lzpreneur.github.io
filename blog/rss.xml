@@ -4,78 +4,130 @@
         <title>SAD-AI Blog</title>
         <link>https://sad-ai-online.github.io/blog</link>
         <description>SAD-AI Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://sad-ai-online.github.io/blog/welcome</link>
-            <guid>https://sad-ai-online.github.io/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+            <title><![CDATA[沒有技術背景？帶你寫出清晰易懂的需求文件]]></title>
+            <link>https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech</link>
+            <guid>https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech</guid>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[不會寫需求文件（SRS、BRD、PRD）嗎？這篇指南適合產品經理、專案經理、業務分析師，教你如何用清晰結構與範例撰寫讓工程師讀得懂的需求文件，確保開發團隊準確實現功能！]]></description>
+            <content:encoded><![CDATA[<p>不會寫需求文件（SRS、BRD、PRD）嗎？這篇指南適合產品經理、專案經理、業務分析師，教你如何用清晰結構與範例撰寫讓工程師讀得懂的需求文件，確保開發團隊準確實現功能！</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前言">前言<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E5%89%8D%E8%A8%80" class="hash-link" aria-label="Direct link to 前言" title="Direct link to 前言">​</a></h2>
+<p>在軟體開發專案中，需求文件（Software Requirements Specification, SRS）是需求單位與開發團隊中不可或缺的橋樑。它不只是開發團隊的依據，也是確保產品最終符合期待的關鍵。</p>
+<p>然而，對於沒有技術背景的專案經理、產品經理或商業分析師來說，撰寫需求文件可能會讓人感到頭疼——要怎麼寫，才能讓工程師讀得懂？</p>
+<p>別擔心！你不需要成為技術專家，也能寫出清楚又完整的需求文件。</p>
+<p>這篇文章會用最簡單好懂的方式，帶你一步步掌握撰寫技巧，讓開發團隊不再「憑空想像」，而是真正理解你的需求！</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="什麼是軟體需求文件srs">什麼是軟體需求文件（SRS）？<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E4%BB%80%E9%BA%BC%E6%98%AF%E8%BB%9F%E9%AB%94%E9%9C%80%E6%B1%82%E6%96%87%E4%BB%B6srs" class="hash-link" aria-label="Direct link to 什麼是軟體需求文件（SRS）？" title="Direct link to 什麼是軟體需求文件（SRS）？">​</a></h2>
+<p>SRS 就像是「產品說明書 + 規格表」，用來清楚描述系統該做什麼、不該做什麼，以及預期如何運作。</p>
+<p>SRS 的用途是：</p>
 <ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
+<li><code>讓開發團隊清楚需求，包含使用流程、情境。</code></li>
+<li><code>提供 QA（品質保證）或者需求單位的經辦，能夠驗證結果是否如需求文件一致。</code></li>
+<li><code>幫助利害關係人（Stakeholders）與開發團隊對焦需求，避免因資訊不清造成的開發錯誤，減少後續開發過程的變更成本。</code></li>
 </ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://sad-ai-online.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://sad-ai-online.github.io/blog/mdx-blog-post</link>
-            <guid>https://sad-ai-online.github.io/blog/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token operator" style="color:rgb(137, 221, 255)">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:rgb(137, 221, 255)">=</span><span class="token punctuation" style="color:rgb(199, 146, 234)">{</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(137, 221, 255)">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:rgb(130, 170, 255)">alert</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token string" style="color:rgb(195, 232, 141)">'button clicked!'</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">}</span><span class="token operator" style="color:rgb(137, 221, 255)">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:rgb(137, 221, 255)">!</span><span class="token operator" style="color:rgb(137, 221, 255)">&lt;</span><span class="token operator" style="color:rgb(137, 221, 255)">/</span><span class="token plain">button</span><span class="token operator" style="color:rgb(137, 221, 255)">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content:encoded>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://sad-ai-online.github.io/blog/long-blog-post</link>
-            <guid>https://sad-ai-online.github.io/blog/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hello</category>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://sad-ai-online.github.io/blog/first-blog-post</link>
-            <guid>https://sad-ai-online.github.io/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
+<p>透過這些方式，讓開發團隊明白：「使用者預期的結果是什麼？要看到哪些成果？」</p>
+<p>在實務經驗中最常發生的幾個情境：</p>
+<ul>
+<li>需求單位沒有提，但在 UAT 階段驗證時，發現需要！</li>
+<li>以為沒有寫，就不用實做功能。(業務單位的以為，和開發團的以為，通常都不太一樣)</li>
+<li>以為寫了業務需求，開發團隊就能理解。(開發者不一定熟悉實際業務需求)</li>
+</ul>
+<p>當上述發生時，如果不影響原本提出的需求流程，通常都好處理，<del>不好處理的，通常是人</del>。</p>
+<p>但是當發現是「需求變更」影響現有流程，就容易影響開發時程。</p>
+<p>所以，文件的用途是用來對焦彼此的認知，執行前需求單位和開發單位，都需一起檢視文件內容，不清楚的地方在會議中馬上確認。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼-srs-這麼重要">為什麼 SRS 這麼重要？<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E7%82%BA%E4%BB%80%E9%BA%BC-srs-%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81" class="hash-link" aria-label="Direct link to 為什麼 SRS 這麼重要？" title="Direct link to 為什麼 SRS 這麼重要？">​</a></h2>
+<p>許多開發專案失敗的原因，往往不是技術問題，而是「需求沒對焦」。</p>
+<p>當需求不明確，開發人員只能靠猜測來完成工作，而這樣的結果通常與業務端的期待大相逕庭。</p>
+<p>需求不清楚，會帶來：</p>
+<ul>
+<li><code>溝通成本上升：開發團隊需要反覆確認需求，拖延進度。</code></li>
+<li><code>錯誤的開發方向：開發出來的功能可能不符合需求，導致重工。</code></li>
+<li><code>測試困難：QA 無法確認應該測試哪些內容。</code></li>
+<li><code>使用者體驗不佳：最終產品可能無法解決使用者真正的痛點。</code></li>
+</ul>
+<p>一份清楚的 SRS 文件，能讓開發過程更順利，避免不必要的時間與資源浪費。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="撰寫-srs-的基本架構">撰寫 SRS 的基本架構<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E6%92%B0%E5%AF%AB-srs-%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%A7%8B" class="hash-link" aria-label="Direct link to 撰寫 SRS 的基本架構" title="Direct link to 撰寫 SRS 的基本架構">​</a></h2>
+<p>下列是普遍業務單位，提案給開發單位，至少需要知道的資訊，以便評估需求實做可行性。</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><ol>
+<li>
+<p>前言</p>
+<ul>
+<li>目標與背景</li>
+<li>文件範圍</li>
+<li>定義與縮寫</li>
+</ul>
+</li>
+<li>
+<p>總體描述</p>
+<ul>
+<li>產品功能概述</li>
+<li>用戶角色與使用情境</li>
+<li>設計限制</li>
+</ul>
+</li>
+<li>
+<p>具體需求</p>
+<ul>
+<li>功能性需求</li>
+<li>非功能性需求</li>
+<li>使用者介面需求</li>
+</ul>
+</li>
+<li>
+<p>其他考量</p>
+<ul>
+<li>系統需求</li>
+<li>相容性</li>
+<li>安全性與隱私考量</li>
+</ul>
+</li>
+</ol></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="撰寫-srs-的技巧">撰寫 SRS 的技巧<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E6%92%B0%E5%AF%AB-srs-%E7%9A%84%E6%8A%80%E5%B7%A7" class="hash-link" aria-label="Direct link to 撰寫 SRS 的技巧" title="Direct link to 撰寫 SRS 的技巧">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="流程大於細節">流程大於細節<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E6%B5%81%E7%A8%8B%E5%A4%A7%E6%96%BC%E7%B4%B0%E7%AF%80" class="hash-link" aria-label="Direct link to 流程大於細節" title="Direct link to 流程大於細節">​</a></h3>
+<p>有句話這麼說：<code>萬事起頭難，先從流程起。</code></p>
+<p>當提案者對於流程有 100％的理解，就表示掌握需求框架，與開發團隊討論時，才能有效溝通和討論實做細節。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="用簡單清楚的語言表達需求">用簡單清楚的語言表達需求<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E7%94%A8%E7%B0%A1%E5%96%AE%E6%B8%85%E6%A5%9A%E7%9A%84%E8%AA%9E%E8%A8%80%E8%A1%A8%E9%81%94%E9%9C%80%E6%B1%82" class="hash-link" aria-label="Direct link to 用簡單清楚的語言表達需求" title="Direct link to 用簡單清楚的語言表達需求">​</a></h3>
+<p>許多技術人員並不熟悉業務術語，因此，避免使用過於專業的商業術語，而應使用簡單、具體的描述。</p>
+<p>反之，技術人員，也需用好懂的描述專有名詞，讓業務單位理解。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="若對系統沒有完全的熟悉不建議對開發團隊下指導棋">若對系統沒有完全的熟悉，不建議對開發團隊下指導棋<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E8%8B%A5%E5%B0%8D%E7%B3%BB%E7%B5%B1%E6%B2%92%E6%9C%89%E5%AE%8C%E5%85%A8%E7%9A%84%E7%86%9F%E6%82%89%E4%B8%8D%E5%BB%BA%E8%AD%B0%E5%B0%8D%E9%96%8B%E7%99%BC%E5%9C%98%E9%9A%8A%E4%B8%8B%E6%8C%87%E5%B0%8E%E6%A3%8B" class="hash-link" aria-label="Direct link to 若對系統沒有完全的熟悉，不建議對開發團隊下指導棋" title="Direct link to 若對系統沒有完全的熟悉，不建議對開發團隊下指導棋">​</a></h3>
+<p>術業有專攻，技術團隊不會介入業務團隊如何行銷、如何獲客，更不會要求業務單位要照什麼方式做。</p>
+<p>每個領域和團隊都有其各自的專業，<code>千萬不要以你的興趣來挑戰別人的專業</code>。</p>
+<p>所以在撰寫文件時，只需清楚描述要考量 OO 使用情境，以符合 OO 需求。</p>
+<p>要如何實做，技術團隊會依照現行架構下做專業評估。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="使用範例與情境說明">使用範例與情境說明<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E4%BD%BF%E7%94%A8%E7%AF%84%E4%BE%8B%E8%88%87%E6%83%85%E5%A2%83%E8%AA%AA%E6%98%8E" class="hash-link" aria-label="Direct link to 使用範例與情境說明" title="Direct link to 使用範例與情境說明">​</a></h3>
+<p>用範例讓需求更加具象化。但如果是參照計有呈現方式，一樣需要寫<code>呈現方式沿用現行設計</code>，可以幫助開發團隊更快理解需求。</p>
+<p>假設正在撰寫一個電商網站的需求文件，可以這樣描述：</p>
+<p>✅ 例如：</p>
+<blockquote>
+<p>當用戶將商品加入購物車後，系統應自動計算總價格，並顯示運費。若商品庫存不足，則應顯示「庫存不足」的提示。</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="明確定義驗收標準">明確定義驗收標準<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E6%98%8E%E7%A2%BA%E5%AE%9A%E7%BE%A9%E9%A9%97%E6%94%B6%E6%A8%99%E6%BA%96" class="hash-link" aria-label="Direct link to 明確定義驗收標準" title="Direct link to 明確定義驗收標準">​</a></h3>
+<p>開發人員需要知道「什麼樣的結果算是符合需求的」，因此在 SRS 中應包含明確的驗收標準。</p>
+<p>✅ 例如：</p>
+<blockquote>
+<p>當用戶提交訂單後，系統應跳出「訂單已提交」的確認訊息。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="如何讓-srs-變得更容易閱讀">如何讓 SRS 變得更容易閱讀？<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E5%A6%82%E4%BD%95%E8%AE%93-srs-%E8%AE%8A%E5%BE%97%E6%9B%B4%E5%AE%B9%E6%98%93%E9%96%B1%E8%AE%80" class="hash-link" aria-label="Direct link to 如何讓 SRS 變得更容易閱讀？" title="Direct link to 如何讓 SRS 變得更容易閱讀？">​</a></h2>
+<p>即使需求文件寫得很完整，如果開發團隊無法閱讀，仍然無法發揮作用。</p>
+<p>以下是更容易被閱讀的小撇步：</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="使用表格與流程圖">使用表格與流程圖<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E4%BD%BF%E7%94%A8%E8%A1%A8%E6%A0%BC%E8%88%87%E6%B5%81%E7%A8%8B%E5%9C%96" class="hash-link" aria-label="Direct link to 使用表格與流程圖" title="Direct link to 使用表格與流程圖">​</a></h3>
+<p>人們喜歡視覺化的資訊，因此，使用表格、流程圖或時序圖（Sequence Diagram）來呈現需求，可以大幅提升可讀性。</p>
+<table><thead><tr><th>功能</th><th>條件</th><th>預期結果</th></tr></thead><tbody><tr><td>加入購物車</td><td>用戶點擊「加入購物車」按鈕</td><td>商品加入購物車，顯示確認訊息</td></tr><tr><td>付款</td><td>用戶輸入信用卡資訊並提交</td><td>系統處理付款，顯示訂單確認畫面</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="分段撰寫避免冗長">分段撰寫，避免冗長<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E5%88%86%E6%AE%B5%E6%92%B0%E5%AF%AB%E9%81%BF%E5%85%8D%E5%86%97%E9%95%B7" class="hash-link" aria-label="Direct link to 分段撰寫，避免冗長" title="Direct link to 分段撰寫，避免冗長">​</a></h3>
+<p>人們習慣快速瀏覽重點，應避免寫過於冗長的段落，而應將內容拆分成較小的部分，並使用標題與編號來組織內容。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="讓技術人員參與需求討論">讓技術人員參與需求討論<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E8%AE%93%E6%8A%80%E8%A1%93%E4%BA%BA%E5%93%A1%E5%8F%83%E8%88%87%E9%9C%80%E6%B1%82%E8%A8%8E%E8%AB%96" class="hash-link" aria-label="Direct link to 讓技術人員參與需求討論" title="Direct link to 讓技術人員參與需求討論">​</a></h3>
+<p>在撰寫 SRS 之前，先與技術團隊討論需求，確保他們能夠理解業務需求，並提供技術上的可行性建議。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a href="https://sad-ai-online.github.io/blog/2025/03/02/write-requirements-without-tech#%E7%B5%90%E8%AB%96" class="hash-link" aria-label="Direct link to 結論" title="Direct link to 結論">​</a></h2>
+<p>最後，撰寫 SRS 即使沒有技術背景，只要掌握清楚的表達業務流程，和預期結果，加上使用範例與圖表，以及與開發團隊保持良好的溝通，就夠讓需求文件發揮最大的價值。</p>
+<p>希望這篇指南能夠幫助你寫出更清晰、更具可讀性的需求文件，讓你的開發專案更加順利！</p>
+<p>如果讀者對於撰寫內容，想進一步討論，歡迎與我們聯繫！</p>
+<p>Email:</p>
+<blockquote>
+<p><a href="mailto:sadaionline.info@gmail.com" target="_blank" rel="noopener noreferrer">sadaionline.info@gmail.com</a></p>
+</blockquote>]]></content:encoded>
         </item>
     </channel>
 </rss>
