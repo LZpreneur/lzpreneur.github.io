@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkow_ui=self.webpackChunkow_ui||[]).push([[518],{20968:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"entrepreneurship-blog"}')}}]);
