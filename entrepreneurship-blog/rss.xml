@@ -4,10 +4,41 @@
         <title>SAD-AI Blog</title>
         <link>https://sad-ai-online/entrepreneurship-blog</link>
         <description>SAD-AI Blog</description>
-        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[第二個月會議集]]></title>
+            <link>https://sad-ai-online/entrepreneurship-blog/2025/03/25/march-meeting</link>
+            <guid>https://sad-ai-online/entrepreneurship-blog/2025/03/25/march-meeting</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[創業的來到第二個月，緊鑼密鼓地收集資料]]></description>
+            <content:encoded><![CDATA[<p>創業的來到第二個月，緊鑼密鼓地收集資料</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="20250311">20250311<a href="https://sad-ai-online/entrepreneurship-blog/2025/03/25/march-meeting#20250311" class="hash-link" aria-label="Direct link to 20250311" title="Direct link to 20250311">​</a></h2>
+<p>討論：</p>
+<ul>
+<li>當週 Sprint 要完成的任務</li>
+<li>Review 問卷收集狀況</li>
+<li>討論 MVP feature 腦力激盪</li>
+<li>討論 開發採用技術框架範圍</li>
+</ul>
+<p>這天會議回顧用戶問卷的內容，腦力激盪、腦洞大開，天馬行空的討論用戶<strong>最需要的是什麼？</strong></p>
+<p>看著問卷反饋，大多提到<strong>缺乏標準化格式</strong>，<strong>不知道如何撰寫</strong>，<strong>需求容易被誤解</strong>等。</p>
+<p>讓我們想到產品的目標，就是</p>
+<blockquote>
+<p>提升文件可讀性！</p>
+</blockquote>
+<p><strong>不只作者好寫，還要讀者好讀</strong>，是我們想將產品推上的路線。</p>
+<p>也聯想到工具很多種，每個人善用的都不同，最重要的是<strong>溝通能力</strong></p>
+<p>不論是口語表達，還是文字表述，甚至是肢體語言，都屬於溝通的一部分。</p>
+<p>而我們想做的是</p>
+<blockquote>
+<p>讓作者可以行雲流水般的寫出，同時內容的可讀性，讓讀者有舒適的閱讀體驗。</p>
+</blockquote>]]></content:encoded>
+            <category>創業</category>
+            <category>創業會議</category>
+        </item>
         <item>
             <title><![CDATA[第一個月會議集]]></title>
             <link>https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting</link>
