@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkow_ui=self.webpackChunkow_ui||[]).push([[1347],{26894:e=>{e.exports=JSON.parse('{"blogBasePath":"/entrepreneurship-blog","blogTitle":"SAD-AI \u5275\u696d\u7b46\u8a18","authorsListPath":"/entrepreneurship-blog/authors"}')}}]);

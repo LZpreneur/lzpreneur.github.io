@@ -9,164 +9,163 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[第二個月會議集]]></title>
+            <title><![CDATA[Second Month Meeting Collection]]></title>
             <link>https://sad-ai-online/entrepreneurship-blog/2025/03/25/march-meeting/</link>
             <guid>https://sad-ai-online/entrepreneurship-blog/2025/03/25/march-meeting/</guid>
             <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[創業的來到第二個月，緊鑼密鼓地收集資料]]></description>
-            <content:encoded><![CDATA[<p>創業的來到第二個月，緊鑼密鼓地收集資料</p>
+            <description><![CDATA[Entering the second month of entrepreneurship, intensively collecting data]]></description>
+            <content:encoded><![CDATA[<p>Entering the second month of entrepreneurship, intensively collecting data</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="20250311">20250311<a href="https://sad-ai-online/entrepreneurship-blog/2025/03/25/march-meeting/#20250311" class="hash-link" aria-label="Direct link to 20250311" title="Direct link to 20250311">​</a></h2>
-<p>討論：</p>
+<p>Discussed:</p>
 <ul>
-<li>當週 Sprint 要完成的任務</li>
-<li>Review 問卷收集狀況</li>
-<li>討論 MVP feature 腦力激盪</li>
-<li>討論 開發採用技術框架範圍</li>
+<li>Tasks to complete for the week's Sprint</li>
+<li>Review survey collection status</li>
+<li>MVP feature brainstorming discussion</li>
+<li>Discussion on development technology framework scope</li>
 </ul>
-<p>這天會議回顧用戶問卷的內容，腦力激盪、腦洞大開，天馬行空的討論用戶<strong>最需要的是什麼？</strong></p>
-<p>看著問卷反饋，大多提到<strong>缺乏標準化格式</strong>，<strong>不知道如何撰寫</strong>，<strong>需求容易被誤解</strong>等。</p>
-<p>讓我們想到產品的目標，就是</p>
+<p>This day's meeting reviewed user survey content, brainstorming with wild creativity, discussing what users <strong>need most</strong>.</p>
+<p>Looking at survey feedback, most mentioned <strong>lack of standardized formats</strong>, <strong>not knowing how to write</strong>, <strong>requirements easily misunderstood</strong>, etc.</p>
+<p>This made us think about our product's goal, which is:</p>
 <blockquote>
-<p>提升文件可讀性！</p>
+<p>Improve document readability!</p>
 </blockquote>
-<p><strong>不只作者好寫，還要讀者好讀</strong>，是我們想將產品推上的路線。</p>
-<p>也聯想到工具很多種，每個人善用的都不同，最重要的是<strong>溝通能力</strong></p>
-<p>不論是口語表達，還是文字表述，甚至是肢體語言，都屬於溝通的一部分。</p>
-<p>而我們想做的是</p>
+<p><strong>Not only easy for authors to write, but also easy for readers to read</strong> - this is the direction we want to take our product.</p>
+<p>We also thought about how there are many tools, and everyone excels at different ones. The most important thing is <strong>communication ability</strong>.</p>
+<p>Whether it's verbal expression, written communication, or even body language, all are part of communication.</p>
+<p>What we want to do is:</p>
 <blockquote>
-<p>讓作者可以行雲流水般的寫出，同時內容的可讀性，讓讀者有舒適的閱讀體驗。</p>
+<p>Enable authors to write as smoothly as flowing water, while ensuring content readability gives readers a comfortable reading experience.</p>
 </blockquote>]]></content:encoded>
-            <category>創業</category>
-            <category>創業會議</category>
+            <category>entrepreneurship</category>
+            <category>startup meetings</category>
         </item>
         <item>
-            <title><![CDATA[第一個月會議集]]></title>
+            <title><![CDATA[🤝 First Month Meeting Collection]]></title>
             <link>https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/</link>
             <guid>https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/</guid>
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[創業的第一場會議，很快的決定好幾件事]]></description>
-            <content:encoded><![CDATA[<p>創業的第一場會議，很快的決定好幾件事</p>
-<p>我們創業進行的分工和方式，先簡單說明。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="分工">分工<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#%E5%88%86%E5%B7%A5" class="hash-link" aria-label="Direct link to 分工" title="Direct link to 分工">​</a></h2>
+            <description><![CDATA[Our first entrepreneurship meeting where we quickly decided on several important matters]]></description>
+            <content:encoded><![CDATA[<p>Our first entrepreneurship meeting where we quickly decided on several important matters</p>
+<p>Let me briefly explain our division of work and approach for the entrepreneurship journey.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="division-of-work">Division of Work<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#division-of-work" class="hash-link" aria-label="Direct link to Division of Work" title="Direct link to Division of Work">​</a></h2>
 <p><code>Zane</code>
-本身是技術狂熱者，對技術有著滿腔熱血和工程師魂，當仁不讓的負責技術架構和規劃。</p>
-<p>各種技術知識和新知，都逃不過他的知識探索雷達。有時他會扮演關鍵的角色，冷靜的分析和判斷。</p>
-<p>如果我猶豫不決的時候，更會大膽的下決策，然後一起承擔 😆。</p>
+A technology enthusiast with passionate dedication and an engineer's soul for technology, naturally taking charge of technical architecture and planning.</p>
+<p>All kinds of technical knowledge and innovations can't escape his knowledge exploration radar. Sometimes he plays a key role in calm analysis and judgment.</p>
+<p>When I'm hesitant and indecisive, he boldly makes decisions and we bear the consequences together 😆.</p>
 <br>
 <p><code>Lucy</code>
-主要處理任何管理、組織、行銷、文案撰寫、專案管理、溝通的事務，本身也是前端工程師。</p>
-<p>跟隨著 <code>Zane</code> 學習技術，是走串套件派，會用會串，遇到問題時，會馬上找出解決方案。</p>
+Mainly handles any management, organization, marketing, copywriting, project management, and communication tasks. Also a frontend engineer.</p>
+<p>Following <code>Zane</code> in learning technology, I'm more of a "package integrator" - good at using and integrating, and when encountering problems, I quickly find solutions.</p>
 <br>
-<p>如果論技術 1 ~ 10 分，筆者算是 6；<code>Zane</code> 是 9。</p>
-<p>如果論管理 1 ~ 10 分，筆者算是 9；<code>Zane</code> 是 6。</p>
+<p>If we rate technical skills from 1-10, I'm about a 6; <code>Zane</code> is a 9.</p>
+<p>If we rate management skills from 1-10, I'm about a 9; <code>Zane</code> is a 6.</p>
 <br>
-<p>也因此有了這樣的分工，我們各有專長，學習分工合作，一起達成目標。🥸</p>
-<p><code>Zane</code> 開發主要框架，筆者則是著框架走，一邊作筆記一邊開發。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="開會方式">開會方式<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#%E9%96%8B%E6%9C%83%E6%96%B9%E5%BC%8F" class="hash-link" aria-label="Direct link to 開會方式" title="Direct link to 開會方式">​</a></h2>
-<p>我們是固定每週一次，討論項目比較多，就會多安排一次。</p>
-<p>每次開會固定 2 ~ 2.5 小時，一週一個 Sprint。</p>
-<p>開會主要討論當週執行的任務，開會前準備的內容，也會在會議中決定出解決方案。</p>
-<p>不浪費任何寶貴的時間，因為我們各自還有其他生活重心要顧。</p>
-<p>創業固然是我們想在人生中嘗試的夢想清單之一，但也不會忽略其他在我們生活中寶貴的人事物。</p>
-<p>所以會議集中火力，討論、決議、反思，快刀斬亂馬的進行會議重點！</p>
+<p>This is how we established our division of work. We each have our strengths, learning to collaborate and work together to achieve our goals. 🥸</p>
+<p><code>Zane</code> develops the main framework, while I work within that framework, taking notes while developing.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="meeting-approach">Meeting Approach<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#meeting-approach" class="hash-link" aria-label="Direct link to Meeting Approach" title="Direct link to Meeting Approach">​</a></h2>
+<p>We have a fixed weekly meeting schedule, and when there are more items to discuss, we arrange additional meetings.</p>
+<p>Each meeting is fixed at 2-2.5 hours, with one Sprint per week.</p>
+<p>Meetings mainly discuss tasks to be executed that week, and we also decide on solutions for content prepared before meetings.</p>
+<p>We don't waste any precious time, because we each have other life priorities to attend to.</p>
+<p>While entrepreneurship is certainly one of the dream list items we want to try in life, we won't neglect other precious people and things in our lives.</p>
+<p>So our meetings are focused and concentrated - discuss, decide, reflect, and proceed with meeting priorities with swift decisiveness!</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="20250218">20250218<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#20250218" class="hash-link" aria-label="Direct link to 20250218" title="Direct link to 20250218">​</a></h2>
-<p>第一場會議，會議前我已經先整理好開會要決議的項目，例如：</p>
+<p>In our first meeting, I had already organized the items to be decided beforehand, such as:</p>
 <ul>
 <li>domain</li>
-<li>官網內容</li>
-<li>產品 MVP feature</li>
-<li>時程規劃</li>
+<li>official website content</li>
+<li>product MVP features</li>
+<li>timeline planning</li>
 </ul>
-<p>我們兩個遇到沒什麼想法時，都是屬於選擇障礙的類型</p>
-<p>這天會議花最多時間是，<strong>決定 domain 名稱</strong></p>
-<p>因為原本的名稱，已經被買走了，於是我們列了幾種排列組合，</p>
-<p>還要考量 SEO 的情況下，實在不知道哪個好。</p>
-<p>找合適 domain 前後花了約 30 分鐘，算是有點久，遲遲沒有定案，
-都讓我們感到無所適從。</p>
-<p>於是我們用了刪去法，留下三個合適的名字，</p>
+<p>When we both lack ideas, we're both the type who suffer from choice paralysis.</p>
+<p>This meeting, we spent the most time <strong>deciding on the domain name</strong>.</p>
+<p>Because our original name had already been taken, we listed several combinations,</p>
+<p>and considering SEO factors, we really didn't know which was best.</p>
+<p>Finding a suitable domain took about 30 minutes front and back, which was quite long, and our indecision left us feeling lost.</p>
+<p>So we used the elimination method, leaving three suitable names,</p>
 <br>
-<p>接著！用 <strong>轉輪盤決定</strong> 都被我們轉中的名字，就買那組 domain ! 😊</p>
-<p>省去了我們很多精力 😅</p>
+<p>Then! We used a <strong>spinning wheel to decide</strong> - whichever name the wheel landed on, we'd buy that domain! 😊</p>
+<p>This saved us a lot of energy 😅</p>
 <br>
-<p>其他項目，也很順利討論出適合的作法。這天的心得是</p>
+<p>Other items were also smoothly discussed and suitable approaches were found. The lesson learned that day was:</p>
 <blockquote>
-<p>猶豫不決的時候，就交給轉盤吧！</p>
+<p>When you're indecisive, leave it to the spinning wheel!</p>
 </blockquote>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="20250225">20250225<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#20250225" class="hash-link" aria-label="Direct link to 20250225" title="Direct link to 20250225">​</a></h2>
-<p>這天討論：</p>
+<p>This day we discussed:</p>
 <ul>
 <li>UI Mockup</li>
-<li>轉移初代官網到新帳號</li>
-<li>決議專案管理工具</li>
-<li>Review MVP feature 可行性評估</li>
-<li>建立 Discord 頻道</li>
-<li>暫定產品 Logo</li>
+<li>Transferring the initial website to a new account</li>
+<li>Deciding on project management tools</li>
+<li>Reviewing MVP feature feasibility assessment</li>
+<li>Establishing Discord channels</li>
+<li>Tentative product logo</li>
 </ul>
-<p>由於我們平時都很忙，一個忙著照顧家人考證照，一個忙著運動和打理生活。</p>
-<p>這天會議，<code>Zane</code> 很快速的就把 github repo 和 github action 處理到一個段落。</p>
+<p>Since we're both usually very busy - one busy caring for family and getting certifications, the other busy with exercise and life management.</p>
+<p>This day's meeting, <code>Zane</code> very quickly handled the GitHub repo and GitHub Actions to a good point.</p>
 <br>
-<p>接著，我們討論原先使用的 <code>ClickUp</code>是否改以 <code>JIRA</code>, <code>Confluence</code> 來管理專案。</p>
-<p>最後考量熟悉度、畫面可讀、費用，還是棄用 <code>ClickUp</code>。</p>
+<p>Next, we discussed whether to switch from our original <code>ClickUp</code> to <code>JIRA</code> and <code>Confluence</code> for project management.</p>
+<p>Finally, considering familiarity, interface readability, and cost, we decided to abandon <code>ClickUp</code>.</p>
 <blockquote>
-<p>因為時間對我們來說，最珍貴。能先將專案往前進行最重要。</p>
+<p>Because time is most precious to us. The most important thing is to move the project forward first.</p>
 </blockquote>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="20250227">20250227<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/28/feb-meeting/#20250227" class="hash-link" aria-label="Direct link to 20250227" title="Direct link to 20250227">​</a></h2>
-<p>討論：</p>
+<p>Discussed:</p>
 <ul>
-<li>當週 Sprint 要完成的任務</li>
-<li>繼續調整產品官網的 CI/CD</li>
-<li>調整 Discord 頻道命名方式，權限調整</li>
-<li>盤點 Survey 的語言框架</li>
+<li>Tasks to complete for the week's Sprint</li>
+<li>Continue adjusting the product website's CI/CD</li>
+<li>Adjusting Discord channel naming conventions and permission settings</li>
+<li>Surveying language frameworks</li>
 </ul>
-<p>這天會議約 2 小時不到，很快速的把該列的項目列清楚。
-接著就是執行完成。</p>
+<p>This day's meeting was less than 2 hours, and we quickly listed all the items that needed to be listed clearly.
+Then it was time for execution and completion.</p>
 <blockquote>
-<p>決定好的選擇，不用回頭想對不對，讓它變成對的，就是了！</p>
+<p>Once a choice is made, don't look back wondering if it's right. Just make it right!</p>
 </blockquote>]]></content:encoded>
-            <category>創業</category>
-            <category>創業會議</category>
+            <category>entrepreneurship</category>
+            <category>startup meetings</category>
         </item>
         <item>
-            <title><![CDATA[搭上黃金梅利號！]]></title>
+            <title><![CDATA[🚢 All Aboard the Going Merry!]]></title>
             <link>https://sad-ai-online/entrepreneurship-blog/2025/02/18/going-merry/</link>
             <guid>https://sad-ai-online/entrepreneurship-blog/2025/02/18/going-merry/</guid>
             <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[簡單紀錄我們開始規劃產品、專案進行的歷程，就讓我們看下去！]]></description>
-            <content:encoded><![CDATA[<p>簡單紀錄我們開始規劃產品、專案進行的歷程，就讓我們看下去！</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="最早開始">最早開始<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/18/going-merry/#%E6%9C%80%E6%97%A9%E9%96%8B%E5%A7%8B" class="hash-link" aria-label="Direct link to 最早開始" title="Direct link to 最早開始">​</a></h2>
-<p>創業，一直是離我們很遠的事。</p>
-<p>因為創業會的技能集，廣且深，不只寫程式，也要懂行銷。</p>
-<p>對於非技術領域的知識，以往我們都深感懼怕。</p>
+            <description><![CDATA[A simple record of our journey in planning products and project development. Let's dive in!]]></description>
+            <content:encoded><![CDATA[<p>A simple record of our journey in planning products and project development. Let's dive in!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-beginning">The Beginning<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/18/going-merry/#the-beginning" class="hash-link" aria-label="Direct link to The Beginning" title="Direct link to The Beginning">​</a></h2>
+<p>Entrepreneurship was always something far from our reality.</p>
+<p>Because the skill set required for entrepreneurship is both broad and deep - not just programming, but also understanding marketing.</p>
+<p>We've always felt intimidated by knowledge outside the technical domain.</p>
 <br>
-<p>不過，在 2020 年開始接觸行銷知識後，才發現我們生活周遭的點子和事物是有關聯的。</p>
+<p>However, after starting to explore marketing knowledge in 2020, we discovered that the ideas and things around us in daily life are interconnected.</p>
 <blockquote>
-<p>原來，創業好像蠻有趣的！</p>
+<p>Turns out, entrepreneurship seems quite interesting!</p>
 </blockquote>
 <br>
-<p>這幾年，除了技術知識、實作經驗，行銷知識和實驗。</p>
-<p>一步步累積到現在，我們也躍躍欲試「創業」這件事。</p>
-<p>不確定創業的旅程會遇到哪些事，但我想一定都不是簡單的事。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="契機">契機<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/18/going-merry/#%E5%A5%91%E6%A9%9F" class="hash-link" aria-label="Direct link to 契機" title="Direct link to 契機">​</a></h2>
-<p>某天聽到 Jerry 分享的書</p>
+<p>Over these years, besides technical knowledge and hands-on experience, we've also accumulated marketing knowledge and experimentation.</p>
+<p>Step by step, we've built up to where we are now, and we're eager to try "entrepreneurship."</p>
+<p>We're not sure what we'll encounter on this entrepreneurship journey, but I'm certain it won't be simple.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-catalyst">The Catalyst<a href="https://sad-ai-online/entrepreneurship-blog/2025/02/18/going-merry/#the-catalyst" class="hash-link" aria-label="Direct link to The Catalyst" title="Direct link to The Catalyst">​</a></h2>
+<p>One day, Jerry shared a book:</p>
 <blockquote>
 <p>What got you here, won't get you there.</p>
 </blockquote>
-<p>提到現在的成功，可以用 A 方法獲得。
-但要獲得另一種成功，Ａ 方法不一定能有相同的效果。</p>
-<p>要獲得不一樣的體驗，就要換一種方式，才有可能達成。</p>
-<p>那不如就「創業」吧！看看路上會遇到哪些有趣的人事物。</p>
+<p>It mentioned that current success can be achieved through method A.
+But to achieve a different kind of success, method A might not have the same effect.</p>
+<p>To gain different experiences, you need to try a different approach to make it possible.</p>
+<p>So why not "start a business"! Let's see what interesting people and things we encounter along the way.</p>
 <br>
-<p>於是，我們思考著，有什麼問題等著我們解決，而我們也有能力處理呢？</p>
-<p>剛好，工作上常遇到，<strong>需求不明確、文件寫不清楚</strong>的問題。</p>
-<p>往往浪費開發時間、溝通成本，延到專案時程，整體開發的體驗不是很好。</p>
-<p>那這是我們能解決的嗎？應該可以吧？！<del>我們 OS 根本就是真的假的拉！要衝嗎？</del></p>
+<p>So we thought about what problems are waiting for us to solve, and what we have the capability to handle.</p>
+<p>Coincidentally, we often encounter <strong>unclear requirements and poorly written documentation</strong> at work.</p>
+<p>This often wastes development time, increases communication costs, delays project timelines, and overall creates a poor development experience.</p>
+<p>Can we solve this? We think so! <del>Our internal dialogue was basically "Are we serious? Should we go for it?"</del></p>
 <br>
-<p>那就來試試吧！才有了 <strong>SAD-AI</strong></p>
-<p>接下來，我們會紀錄每個月開會內容和創業決策等。</p>
-<p>想分享給想創業的工程師們，準備好了嗎？</p>
-<p>我們啟航吧！</p>]]></content:encoded>
-            <category>創業</category>
-            <category>工程師創業</category>
+<p>So let's give it a try! That's how <strong>SAD-AI</strong> was born.</p>
+<p>Moving forward, we'll record our monthly meeting content and entrepreneurship decisions.</p>
+<p>We want to share this with engineers who want to start businesses. Are you ready?</p>
+<p>Let's set sail!</p>]]></content:encoded>
+            <category>entrepreneurship</category>
+            <category>engineer entrepreneurship</category>
         </item>
     </channel>
 </rss>
