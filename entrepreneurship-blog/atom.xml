@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lzpreneur.io/entrepreneurship-blog/</id>
-    <title>LZpreneur Blog</title>
+    <title>LZpreneur OÜ Blog</title>
     <updated>2025-03-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.lzpreneur.io/entrepreneurship-blog/"/>
-    <subtitle>LZpreneur Blog</subtitle>
+    <subtitle>LZpreneur OÜ Blog</subtitle>
     <icon>https://www.lzpreneur.io/img/icons/LZ-logo.jpg</icon>
     <entry>
         <title type="html"><![CDATA[Second Month Meeting Collection]]></title>
