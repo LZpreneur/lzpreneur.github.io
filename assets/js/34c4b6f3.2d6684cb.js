@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkow_ui=self.webpackChunkow_ui||[]).push([[2302],{16941:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/entrepreneurship-blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Periodic updates from LZpreneur, documenting our meetings and growth journey.","blogTitle":"LZpreneur Blog"}}')}}]);
