@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkow_ui=self.webpackChunkow_ui||[]).push([[1347],{26894:e=>{e.exports=JSON.parse('{"blogBasePath":"/zh/entrepreneurship-blog","blogTitle":"LZpreneur Blog","authorsListPath":"/zh/entrepreneurship-blog/authors"}')}}]);

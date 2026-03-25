@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /404.html
 Allow: /
 
-Sitemap: https://your-site.com/sitemap.xml
+Sitemap: https://www.lzpreneur.io/sitemap-index.xml
